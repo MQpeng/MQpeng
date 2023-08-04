@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 👨‍🚒 关于我
 
 - ⚡ 我是一个喜欢旅行的`栈工`~
-- 😄 最近刚开始沉淀文章（[Blog: JokerSpice]([https://space.bilibili.com/42233366](https://github.com/mqpeng/mqpeng.github.io))）！
+- 😄 最近刚开始沉淀文章
 
 ### 🔥 我的项目
 
