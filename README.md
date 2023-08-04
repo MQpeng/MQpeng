@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @MQpeng
-- 👀 I’m interested in js & java & golang
-- 🌱 I’m currently learning flutter & go
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-MQpeng/MQpeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**MQpeng/MQpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mqpeng&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
+### 👨‍🚒 关于我
+
+- ⚡ 我是一个喜欢旅行的`栈工`~
+- 😄 最近刚开始沉淀文章（[Blog: JokerSpice]([https://space.bilibili.com/42233366](https://github.com/mqpeng/mqpeng.github.io))）！
+
+### 🔥 我的项目
+
+- 🔰 [`JokerSpice的前端博客`](https://github.com/mqpeng/mqpeng.github.io) My Blog.
